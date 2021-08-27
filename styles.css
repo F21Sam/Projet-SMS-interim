@@ -1,0 +1,6 @@
+header > div > img
+{
+    height: 300px;
+    width: 100%;
+    box-shadow: 10px 10px 30px rgb(42, 72, 126);
+}
